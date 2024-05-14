@@ -1,1 +1,2 @@
 # ATM-machine-using-tkinter-in-python
+This project implements a simple ATM (Automated Teller Machine) system using Python's Tkinter for the graphical user interface (GUI) and matplotlib for data visualization. The system allows users to perform basic banking transactions such as checking balance, withdrawing funds, depositing funds, resetting PIN, viewing transaction history, and quitting the program.
